@@ -1,0 +1,79 @@
+h1{
+    font-size: 10vh,10vw;
+    color: rgba(110, 231, 12, 0.952);
+    text-shadow: 2px 2px 5px rgb(245, 9, 9);
+    display: flex;
+    justify-content: center;
+}
+h2{
+    font-size: 5vh,5vw;
+    color: rgb(255, 5, 5);
+    text-shadow: 2px 2px 5px rgb(2, 70, 11);
+    display: flex;
+    justify-content: center;
+}
+.cardInner,.cardInner2{
+    color:white;
+    background-color: darkblue;
+    border-radius: 15px;
+    border-radius: 15px;
+    height: 150px;
+    width: 170px;
+    box-shadow: 5px 5px 5px rgb(3, 75, 3);
+}
+
+.cardInner{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-content: center;
+    flex-wrap: wrap;
+}
+.cardInner2{
+position: relative;
+}
+.cardInner:hover,.cardInner2:hover{
+    transform: scale(1.15);
+    box-shadow: 5px 5px 5px rgb(100, 4, 4);
+}
+
+.spanOur{
+    font-size: 8px;
+}
+.cardName{
+    font-size: 15px;
+    text-shadow: 5px 2px 5px rgb(191, 247, 145);
+}
+.cardName2{
+    position: relative;
+    left: 30px;
+}
+.cardTotal{
+    font-size: 32px;
+    text-shadow: 5px 2px 5px rgb(191, 247, 145);
+}
+.cardTotal2{
+    font-size: 17px;
+    text-shadow: 5px 2px 5px rgb(191, 247, 145);
+}
+.secClass{
+color: white;
+background-color: black;
+min-width: 100vw;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+  
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 30px;
+    grid-column-gap: 30px;
+    justify-content: space-evenly;
+    align-content: center;
+    flex-wrap: wrap;
+    
+ 
+  }
