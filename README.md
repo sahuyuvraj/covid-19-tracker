@@ -26,6 +26,10 @@ npm start
 ```bash
 https://api.covid19india.org/data.json
 ```
+## Website link:
+```bash
+https://covid19tracker-a4d7e.web.app/
+```
 
 
 ## 🚀 About Me
