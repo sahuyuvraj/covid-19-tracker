@@ -27,9 +27,11 @@ npm start
 https://api.covid19india.org/data.json
 ```
 
-## Screenshots
+## Screenshot
 
-![App Screenshot](img/Screenshot%20(330).png)
+
+![App Screenshot](img/Screenshot%20(331).png)
+
 
 
 ## 🔗 Website Links
