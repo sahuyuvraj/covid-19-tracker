@@ -26,6 +26,12 @@ npm start
 ```bash
 https://api.covid19india.org/data.json
 ```
+
+## Screenshots
+
+![App Screenshot](img/Screenshot%20(330).png)
+
+
 ## 🔗 Website Links
 
 https://covid19tracker-a4d7e.web.app
