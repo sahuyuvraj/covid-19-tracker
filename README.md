@@ -37,7 +37,7 @@ https://api.covid19india.org/data.json
 
 ## 🔗 Website Links
 
-https://covid19tracker-a4d7e.web.app
+https://covid-19-tracker-c7850.web.app 
 
 
 ## 🚀 About Me
