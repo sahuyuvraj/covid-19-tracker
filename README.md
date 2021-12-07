@@ -1,7 +1,9 @@
 
 # COVID-19 Tracker
 
-A react based app which will display the statistics about covid-19 using a simplistic UI.
+A react based app which will display the statistics about covid-19 using a simplistic UI. Used API to fetch JSON
+data ,HTML,CSS, JavaScript and deployed in Firebase. This web app shows information of current covid -19 active
+cases, total recovered,total deaths and last updated date of website.
 
 
 
